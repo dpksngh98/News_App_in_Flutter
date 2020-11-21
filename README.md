@@ -9,4 +9,4 @@ Flutter is an open-source, UI software development framework (based on Dart lang
 ![Project Stack screenshot](Images/ProjectStack.PNG)
 
 ## Project Screenshot:
-![Project screenshot](Images/p1.jpg)        ![Project screenshot](Images/p2.jpg)         ![Project screenshot](Images/p3.jpg)
+![Project screenshot](Images/p1.jpg)                                         ![Project screenshot](Images/p2.jpg)         
