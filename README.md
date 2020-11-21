@@ -6,7 +6,7 @@ News App developed with Flutter and API from [News API](newsapi.org)
 Flutter is an open-source, UI software development framework (based on Dart language) created by Google. It enables developers to create high-performance apps, with a single codebase for different platforms such as iOS, Android, Windows, Linux, Google Fuchsia, and the Web.
 
 ## Project Stack:
-![Project Stack screenshot](/Images/ProjectStack.png)
+![Project Stack screenshot](Images/ProjectStack.png)
 
 ## Project Screenshot:
-![Project screenshot](/Images/p1.png) ![Project screenshot](/Images/p2.png) ![Project screenshot](/Images/p3.png)
+![Project screenshot](Images/p1.png) ![Project screenshot](Images/p2.png) ![Project screenshot](Images/p3.png)
