@@ -1,16 +1,12 @@
-# news_app
+# News_App_in_Flutter
+News App developed with Flutter and API from [News API](newsapi.org)
 
-A new Flutter project.
+## Flutter:
+![Flutter](https://www.google.com/search?q=flutter+image&tbm=isch&ved=2ahUKEwi_nq-zrZTtAhUYjUsFHdbGAAEQ2-cCegQIABAA&oq=flutter+image&gs_lcp=CgNpbWcQAzIECCMQJzICCAAyBAgAEEMyBAgAEEMyAggAMgIIADICCAAyAggAMgIIADICCABQnYkCWN-TAmDqlgJoAHAAeACAAcQDiAHUBZIBBzItMS4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Nmi5X7-rJ5iartoP1o2DCA&bih=657&biw=1366)
+Flutter is an open-source, UI software development framework (based on Dart language) created by Google. It enables developers to create high-performance apps, with a single codebase for different platforms such as iOS, Android, Windows, Linux, Google Fuchsia, and the Web.
 
-## Getting Started
+## Project Stack:
+![Project Stack screenshot](/Images/ProjectStack.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Screenshot:
+![Project screenshot](/Images/p1.png) ![Project screenshot](/Images/p2.png) ![Project screenshot](/Images/p3.png)
